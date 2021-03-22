@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 👨‍💻 Currently working at <a href="https://maksof.com/"><img src="https://maksof.com/assets/images/mac-logo.png" height=25></a> as a Mobile-App Developer.
+- 👨‍💻 Currently working at <a href="https://maksof.com/" target="_blank"><img src="https://maksof.com/assets/images/mac-logo.png" height=25></a> as a Mobile-App Developer.
+- Maksof Associated Github Account <a href="https://www.github.com/maksof-Hussain"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=25 /> </a>
 
 <a href="https://www.linkedin.com/in/md-hussain55/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/9350274/hussain"><img src="https://img.shields.io/badge/stackoverflow-%23f48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> <a href="mailto:mohammadhussainmobeen@gmail.com"><img src="https://img.shields.io/badge/email-%23000.svg?&style=for-the-badge&logo=website&logoColor=white" height=25></a>
 
